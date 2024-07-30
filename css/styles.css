@@ -20,10 +20,10 @@ a {
 .header {
 }
 .logo {
-    font-family: "Raleway", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 117%;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -52,7 +52,7 @@ a {
   color: #404BBF;  
 }
 
-.adress {
+.adress { font-style: normal;
 }
 .adress-menu {
 }
@@ -153,11 +153,12 @@ color:#FFFFFF;
     background-color: #2E2F42;
 }
 .logo {
+    font-family: "Raleway", sans-serif;
 }
-.footer-logo-span {color: #ffffff;
+.footer-logo-span {color: #f4f4fd;
 }
 .footer-p { 
-    color: #ffffff;
+    color: #f4f4fd;
 }
 
 /* #endregion Footer */
