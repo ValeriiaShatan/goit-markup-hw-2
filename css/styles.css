@@ -104,6 +104,12 @@ color:#FFFFFF;
 }
 
 .section-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
 }
 .benefits-list {
 }
@@ -126,13 +132,23 @@ color:#FFFFFF;
     background-color: #f4f4fd;
 }
 
-.section-title {
+.section-title { 
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
 }
 .team-list {
 }
 .team-list-item {
+    background-color: #FFFFFF;
 }
 .item-title {
+}
+.team-p {
+    font-size: 16px;
 }
 
 /* #endregion Section 2 */
